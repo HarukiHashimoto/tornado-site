@@ -1,3 +1,4 @@
-p {
-    text-align: center;
+.topbar {
+    background-color: rgb(33, 33, 33);
+    height: 75px;
 }
